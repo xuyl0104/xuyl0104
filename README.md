@@ -25,7 +25,7 @@
 
     My job is to 1) help students with their questions on the algorithms and theories in the class, and 2) give topic related lectures to provide more cutting-edge information about the courses.
 
-    Courses: Machine Learning (course capaticy: 45), Object-Oriented Programming & Data Structure (course capaticy: 70), Algorithm Design & Analysis (course capaticy: 42), Computer Architecture (course capaticy: 40)
+    Courses: Machine Learning (course capacity: 45), Object-Oriented Programming & Data Structure (course capacity: 70), Algorithm Design & Analysis (course capacity: 42), Computer Architecture (course capacity: 40)
 
 - 2017.06 - 2018.06: Software Engineer, Inspur 
   
