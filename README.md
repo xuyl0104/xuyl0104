@@ -24,8 +24,6 @@
   
     Tech Stack: Python, PyTorch, Pandas, PostgreSQL, Docker, Spring Boot, ONNX.
   
-    Strengthened my expertise in time-series modeling, real-time ingestion, and database optimization—directly relevant to live music analytics.
-  
   
 - LLM-Powered Data & Retrieval Platform (https://github.com/xuyl0104/Research-GPT)
   
@@ -41,15 +39,13 @@
     Scraped and processed large-scale Ethereum transaction data, applying anomaly detection and feature engineering to identify fraudulent contracts.
   
     Tech Stack: Python, Scikit-learn, Pandas, MongoDB.
-  
-    Practical experience in data scraping, ingestion, and analysis, which translates directly to building data infrastructure for music intelligence.
+
   
 
 - Industry Software Development Experience (https://github.com/xuyl0104/React-Framework)
   
     Delivered large-scale UI frameworks in React and backend services in Java/Spring Boot during my role at a multinational company.
   
-    Strengthened my foundation in distributed systems, database design, and production-grade applications.
 
 
 ### 👨‍💻 Experience
